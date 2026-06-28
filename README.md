@@ -24,4 +24,6 @@ All of the mentioned modules already have functions and deploy has a class. More
 
 The very first step taken will be to translate all the content from Brazilian Portuguese to English, including names of modules and functions, graphs titles, axis labels and texts from metrics.
 
+After that, the focus will be implementing tests and QA, improving code quality, adding new features, and potentially introducing other modules.
+
 ## Thank you for visiting the repository
